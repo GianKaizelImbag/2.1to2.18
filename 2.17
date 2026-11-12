@@ -1,0 +1,22 @@
+public class Box {
+    public static void main(String[] args) {
+
+        // Print the box
+        System.out.println("*********");
+        System.out.println("*       *");
+        System.out.println("*       *");
+        System.out.println("*       *");
+        System.out.println("*       *");
+        System.out.println("*       *");
+        System.out.println("*********");
+
+        // Print the diamond
+        System.out.println("    *");
+        System.out.println("   * *");
+        System.out.println("  *   *");
+        System.out.println(" *     *");
+        System.out.println("  *   *");
+        System.out.println("   * *");
+        System.out.println("    *");
+    }
+}
